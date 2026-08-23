@@ -59,7 +59,9 @@ of professionals while reducing manual administration for tutors and support sta
 - Customer satisfaction target: 4.5/5
 - The income from the project exceeds the costs of its arrangement by at least 50%
 
-## Project Scope[README.md](https://github.com/user-attachments/files/31341223/README.md)
+## Project Scope 
+
+[README.md](https://github.com/user-attachments/files/31341223/README.md)
 
 
 ### In Scope
