@@ -1,5 +1,11 @@
 # Project Charter
 
+The Product Charter defines the vision, purpose, target users, business context, and key objectives of the language-learning platform. The product is designed for individuals and organizations seeking to develop professional language skills, with a particular focus on industry-specific communication in fields such as medicine, law, and other specialized professions.
+
+The platform aims to make professional language learning more effective, structured, and accessible by supporting the way the human brain naturally processes, retains, and recalls information. It is designed to facilitate continuous learning, improve professional communication, and help users independently monitor and record their learning progress.
+
+The Product Charter establishes the overall direction of the product and serves as a reference point for defining its features, priorities, user needs, and future development.
+
 ## Project Name
 
 Online Language Platform Launch
